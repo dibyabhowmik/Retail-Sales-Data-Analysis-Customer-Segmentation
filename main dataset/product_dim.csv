@@ -1,0 +1,51 @@
+ProductID,Description,Category,Brand
+PROD034,Product 34,Toys,BrandC
+PROD013,Product 13,Grocery,BrandD
+PROD033,Product 33,Toys,BrandA
+PROD031,Product 31,Home & Kitchen,BrandE
+PROD011,Product 11,Toys,BrandC
+PROD018,Product 18,Grocery,BrandC
+PROD001,Product 1,Toys,BrandB
+PROD014,Product 14,Sports,BrandC
+PROD046,Product 46,Electronics,BrandE
+PROD024,Product 24,Clothing,BrandA
+PROD035,Product 35,Grocery,BrandB
+PROD029,Product 29,Electronics,BrandE
+PROD044,Product 44,Home & Kitchen,BrandC
+PROD003,Product 3,Home & Kitchen,BrandD
+PROD009,Product 9,Home & Kitchen,BrandD
+PROD045,Product 45,Sports,BrandE
+PROD012,Product 12,Home & Kitchen,BrandA
+PROD007,Product 7,Home & Kitchen,BrandD
+PROD042,Product 42,Home & Kitchen,BrandE
+PROD038,Product 38,Home & Kitchen,BrandB
+PROD004,Product 4,Sports,BrandC
+PROD023,Product 23,Toys,BrandA
+PROD022,Product 22,Electronics,BrandA
+PROD008,Product 8,Home & Kitchen,BrandB
+PROD040,Product 40,Toys,BrandA
+PROD047,Product 47,Clothing,BrandE
+PROD048,Product 48,Toys,BrandA
+PROD037,Product 37,Grocery,BrandA
+PROD036,Product 36,Grocery,BrandA
+PROD006,Product 6,Clothing,BrandE
+PROD019,Product 19,Clothing,BrandC
+PROD025,Product 25,Grocery,BrandD
+PROD015,Product 15,Clothing,BrandA
+PROD016,Product 16,Toys,BrandB
+PROD028,Product 28,Electronics,BrandB
+PROD032,Product 32,Clothing,BrandE
+PROD026,Product 26,Sports,BrandC
+PROD041,Product 41,Electronics,BrandA
+PROD027,Product 27,Toys,BrandE
+PROD017,Product 17,Grocery,BrandD
+PROD002,Product 2,Sports,BrandC
+PROD010,Product 10,Sports,BrandC
+PROD005,Product 5,Sports,BrandE
+PROD043,Product 43,Sports,BrandB
+PROD021,Product 21,Sports,BrandC
+PROD050,Product 50,Toys,BrandB
+PROD049,Product 49,Electronics,BrandC
+PROD020,Product 20,Toys,BrandC
+PROD030,Product 30,Home & Kitchen,BrandC
+PROD039,Product 39,Toys,BrandD

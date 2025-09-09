@@ -1,0 +1,21 @@
+ProductID,Description,Category,revenue,total_qty
+PROD015,"Product 15",Clothing,1227942.52,5124
+PROD031,"Product 31","Home & Kitchen",987570.36,4102
+PROD048,"Product 48",Toys,986404.72,4242
+PROD028,"Product 28",Electronics,975156.28,3906
+PROD023,"Product 23",Toys,968236.36,4284
+PROD001,"Product 1",Toys,952143.08,4284
+PROD008,"Product 8","Home & Kitchen",949296.46,3892
+PROD021,"Product 21",Sports,948368.54,4060
+PROD045,"Product 45",Sports,923377.84,3696
+PROD017,"Product 17",Grocery,916006.14,3556
+PROD034,"Product 34",Toys,913897.60,3640
+PROD046,"Product 46",Electronics,898545.06,3808
+PROD050,"Product 50",Toys,898376.64,3906
+PROD042,"Product 42","Home & Kitchen",888291.46,3402
+PROD010,"Product 10",Sports,866333.58,3794
+PROD044,"Product 44","Home & Kitchen",856217.04,3794
+PROD019,"Product 19",Clothing,842328.20,3472
+PROD018,"Product 18",Grocery,841598.38,3710
+PROD040,"Product 40",Toys,835115.12,3612
+PROD005,"Product 5",Sports,833570.36,3556
